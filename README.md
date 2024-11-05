@@ -1,8 +1,3 @@
-# Server-Log-Data-Extraction-and-User-History-Database-Update
-
-
-
-# Server Log Data Extraction and User History Database Update
 
 ## Problem Statement
 The project involves extracting server log data from a raw text file, extracting relevant information like email addresses and timestamps, and storing this data in a MongoDB database. This data is then transferred to a MySQL database for further analysis, where several SQL queries are executed to generate insights, such as the number of logs per email, daily log counts, and more.
